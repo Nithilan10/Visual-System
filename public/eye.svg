@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320" height="180" viewBox="0 0 320 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <ellipse cx="100" cy="90" rx="80" ry="60" fill="#e0eafc" stroke="#333" stroke-width="2"/>
+  <circle cx="60" cy="90" r="18" fill="#fff" stroke="#333" stroke-width="2"/>
+  <circle cx="60" cy="90" r="8" fill="#4a90e2" stroke="#333" stroke-width="1.5"/>
+  <ellipse cx="180" cy="90" rx="18" ry="30" fill="#fff" stroke="#333" stroke-width="2"/>
+  <rect x="198" y="80" width="60" height="20" rx="10" fill="#f7d6b3" stroke="#333" stroke-width="2"/>
+  <line x1="258" y1="90" x2="310" y2="90" stroke="#e57373" stroke-width="6"/>
+  <text x="30" y="70" font-size="13" fill="#333">Cornea</text>
+  <text x="50" y="110" font-size="13" fill="#333">Iris</text>
+  <text x="110" y="80" font-size="13" fill="#333">Lens</text>
+  <text x="120" y="120" font-size="13" fill="#333">Retina</text>
+  <text x="270" y="75" font-size="13" fill="#e57373">Optic Nerve</text>
+</svg> 

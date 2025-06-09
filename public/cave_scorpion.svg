@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320" height="180" viewBox="0 0 320 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <ellipse cx="160" cy="120" rx="40" ry="18" fill="#eaeaea" stroke="#bbb" stroke-width="2"/>
+  <ellipse cx="120" cy="120" rx="10" ry="8" fill="#eaeaea" stroke="#bbb" stroke-width="2"/>
+  <ellipse cx="200" cy="120" rx="10" ry="8" fill="#eaeaea" stroke="#bbb" stroke-width="2"/>
+  <rect x="150" y="100" width="20" height="40" rx="10" fill="#eaeaea" stroke="#bbb" stroke-width="2"/>
+  <path d="M120 120 Q100 100 90 130" stroke="#bbb" stroke-width="4" fill="none"/>
+  <path d="M200 120 Q220 100 230 130" stroke="#bbb" stroke-width="4" fill="none"/>
+  <path d="M160 138 Q170 160 180 150" stroke="#bbb" stroke-width="4" fill="none"/>
+  <text x="100" y="60" font-size="18" fill="#888">Cave Scorpion</text>
+</svg> 

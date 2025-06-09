@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320" height="120" viewBox="0 0 320 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <ellipse cx="160" cy="40" rx="80" ry="30" fill="#f7e6d6" stroke="#333" stroke-width="2"/>
+  <line x1="60" y1="100" x2="140" y2="60" stroke="#e57373" stroke-width="8"/>
+  <line x1="260" y1="100" x2="180" y2="60" stroke="#e57373" stroke-width="8"/>
+  <line x1="140" y1="60" x2="180" y2="60" stroke="#e57373" stroke-width="8"/>
+  <text x="120" y="30" font-size="13" fill="#333">Brain</text>
+  <text x="60" y="115" font-size="13" fill="#e57373">Left Optic Nerve</text>
+  <text x="220" y="115" font-size="13" fill="#e57373">Right Optic Nerve</text>
+  <text x="150" y="80" font-size="13" fill="#e57373">Optic Chiasm</text>
+</svg> 

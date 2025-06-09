@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320" height="120" viewBox="0 0 320 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <ellipse cx="160" cy="60" rx="120" ry="45" fill="#f7e6d6" stroke="#333" stroke-width="2"/>
+  <ellipse cx="260" cy="60" rx="40" ry="30" fill="#e57373" stroke="#333" stroke-width="2"/>
+  <text x="200" y="60" font-size="15" fill="#fff">Occipital Cortex</text>
+  <text x="100" y="30" font-size="13" fill="#333">Brain</text>
+</svg> 

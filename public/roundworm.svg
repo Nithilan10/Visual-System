@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320" height="180" viewBox="0 0 320 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M40 90 Q80 60 120 120 Q160 180 200 60 Q240 0 280 90" stroke="#bbb" stroke-width="8" fill="none"/>
+  <text x="100" y="40" font-size="18" fill="#888">Roundworm</text>
+</svg> 
